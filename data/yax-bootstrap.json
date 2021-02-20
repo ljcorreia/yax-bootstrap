@@ -1,0 +1,13 @@
+{
+	"sitename": "Yax",
+	"navlink1": "Home",
+	"navlink2": "About",
+	"navlink3": [
+		"Services",
+		"Team",
+		"Contact"
+	],
+	"p5_image": "https://picsum.photos/400",
+	"p5_headline": "Contact Us",
+	"p5_content": "\n          Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        "
+}
